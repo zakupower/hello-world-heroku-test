@@ -1,7 +1,7 @@
 package com.tomov.helloworldapp.services;
 
-import com.tomov.helloworldapp.data.HelloMessage;
-import com.tomov.helloworldapp.data.HelloMessageRequest;
+import com.tomov.helloworldapp.entites.HelloMessage;
+import com.tomov.helloworldapp.dtos.HelloMessageRequest;
 
 import java.util.List;
 
